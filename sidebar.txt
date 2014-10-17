@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rgs:home|Door43 (rgs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rgs|d43-rgs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rgs/archive/master.zip|d43-rgs.zip]]
+
+**Recent Changes**
+{{changes>ns = rgs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rgs|Ethnologue data]]
+
